@@ -1,4 +1,4 @@
-# Prodigy_DS_04 EDA README
+# Prodigy_DS_04
 
 ## Steps for README Documentation
 1. Clone the repository.
